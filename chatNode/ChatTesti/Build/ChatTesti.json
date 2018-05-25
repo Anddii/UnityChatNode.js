@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "nodePeli",
+"dataUrl": "ChatTesti.data.unityweb",
+"asmCodeUrl": "ChatTesti.asm.code.unityweb",
+"asmMemoryUrl": "ChatTesti.asm.memory.unityweb",
+"asmFrameworkUrl": "ChatTesti.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
